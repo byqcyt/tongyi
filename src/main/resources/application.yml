@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: AISpringCloudAlibaba
+  cloud:
+    ai:
+      tongyi:
+        # Replace the following key with a valid API-KEY.
+        api-key: sk-cf4254c3b22d4529b16bb26536b87166
